@@ -2,6 +2,12 @@
 
 ## How to use
 
+create wallpapers folder and place your wallpapers inside that folder.
+
+```bash
+mkdir Wallpapers
+```
+
 ```bash
 crontab -e
 ```
